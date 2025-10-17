@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "selenium-webdriver": "^4.36.0"
+  }
+}
